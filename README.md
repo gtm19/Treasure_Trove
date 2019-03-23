@@ -11,6 +11,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 ## Pure R
 * [[**BOOK**] Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
 * [[**BOOK**] TidyEval](https://tidyeval.tidyverse.org/)
+ * [Useful blog post on TidyEval](https://ijlyttle.shinyapps.io/tidyeval/#section-introduction)
 
 ## Markdown
 * [[**BOOK**] RMarkdown Definitive Guide - Yihui Xie](https://bookdown.org/yihui/rmarkdown/)
