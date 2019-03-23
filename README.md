@@ -17,6 +17,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 * [[**BOOK**] RMarkdown Definitive Guide - Yihui Xie](https://bookdown.org/yihui/rmarkdown/)
 * [[**BOOK**] Blogdown - Yihui Xie](https://bookdown.org/yihui/blogdown/)
 * [[**PACKAGE**] Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
+* [Reveal.js](https://github.com/hakimel/reveal.js)
 
 ## Visualisations
 * [[**PACKAGE**] ggforce - ggplot add ons](https://github.com/thomasp85/ggforce)
