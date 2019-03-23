@@ -1,14 +1,16 @@
-# Treasure Trove of Useful Stuff I Use On The Regular
+# Treasure Trove of Useful R Stuff
 
 ## Introduction
-This is just an _aide memoire_ of the interesting/useful bits and bobs I frequently depend on for R development.
+This is just an _aide memoire_ of the interesting/useful bits and bobs I frequently depend on (or might depend on in future) for R development.
 
 ## Data Sources
 * [Data is Plural Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit)
-* [rLandsat](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
+* [[**PACKAGE**] rLandsat](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
+* [Microsoft Research Open Data](https://msropendata.com/)
 
 ## Pure R
 * [[**BOOK**] Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
+* [[**BOOK**] TidyEval](https://tidyeval.tidyverse.org/)
 
 ## Markdown
 * [[**BOOK**] RMarkdown Definitive Guide - Yihui Xie](https://bookdown.org/yihui/rmarkdown/)
@@ -34,6 +36,10 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 ## Web Scraping
 * [[**PACKAGE**] rVest](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)
 * [[**PACKAGE**] httr](https://cran.r-project.org/web/packages/httr/vignettes/quickstart.html)
+* [Web scraping JavaScript](https://www.datacamp.com/community/tutorials/scraping-javascript-generated-data-with-r)
+
+## String Manipulation
+* [Glue - pasting strings and data](https://github.com/tidyverse/glue)
 
 ## Text Mining / Analysis
 * [regexr.xom: RegEx Query Builder](https://regexr.com/)
