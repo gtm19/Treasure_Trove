@@ -35,7 +35,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 * [[**PACKAGE**] Rayshader](https://www.rayshader.com/)
   * [I can rayshade, and so can you - useful blog post](https://wcmbishop.github.io/rayshader-demo/#introduction)
 * [[**PACKAGE**] tidycensus - interface with US Census Bureau API](https://walkerke.github.io/tidycensus/)
-* [[**PACKAGE**] ceramic - for grabbing MapBox tiles](https://github.com/hypertidy/ceramic/blob/master/README.md)
+* [[**PACKAGE**] ceramic - for grabbing MapBox tiles](https://hypertidy.github.io/ceramic/)
 
 ## Web Scraping
 * [[**PACKAGE**] rVest](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)
