@@ -10,6 +10,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 
 ## Pure R
 * [[**BOOK**] Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
+  * [Advanced R - **2nd Edition**](https://adv-r.hadley.nz/)
 * [[**BOOK**] TidyEval](https://tidyeval.tidyverse.org/)
   * [Useful blog post on TidyEval](https://ijlyttle.shinyapps.io/tidyeval/#section-introduction)
 
