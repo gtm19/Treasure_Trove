@@ -8,6 +8,9 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 * [[**PACKAGE**] rLandsat](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
 * [Microsoft Research Open Data](https://msropendata.com/)
 
+## Data Analysis
+* [[**PACKAGE**]Skimr - frictionless approach to summary statistics (with tiny histograms in the console!](https://ropensci.github.io/skimr/)
+
 ## Pure R
 * [[**BOOK**] Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
   * [Advanced R - **2nd Edition**](https://adv-r.hadley.nz/)
