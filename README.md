@@ -9,7 +9,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 * [Microsoft Research Open Data](https://msropendata.com/)
 
 ## Data Analysis
-* [[**PACKAGE**] Skimr - frictionless approach to summary statistics (with tiny histograms in the console!](https://ropensci.github.io/skimr/)
+* [[**PACKAGE**] Skimr - frictionless approach to summary statistics (with tiny histograms in the console!)](https://ropensci.github.io/skimr/)
 
 ## Pure R
 * [[**BOOK**] Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
