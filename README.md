@@ -58,6 +58,9 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 * [regexr.xom: RegEx Query Builder](https://regexr.com/)
 * [[**BOOK**] Text Mining with R](https://www.tidytextmining.com/index.html)
 
+## Debugging
+* [[**PACKAGE**] Searcher - for automatically looking errors up on StackOverflow](https://github.com/r-assist/searcher)
+
 ## Odds and Ends
 * [Berkeley Dates & Times](https://www.stat.berkeley.edu/~s133/dates.html)
 * [RStudio Cheatsheets](https://github.com/rstudio/cheatsheets)
