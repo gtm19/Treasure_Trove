@@ -5,6 +5,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 
 ## Data Sources
 * [Data is Plural Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit)
+* [Collection of Public APIs](https://github.com/toddmotto/public-apis)
 * [[**PACKAGE**] rLandsat](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
 * [Microsoft Research Open Data](https://msropendata.com/)
 
