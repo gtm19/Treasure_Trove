@@ -8,6 +8,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 * [Collection of Public APIs](https://github.com/toddmotto/public-apis)
 * [[**PACKAGE**] rLandsat](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
 * [Microsoft Research Open Data](https://msropendata.com/)
+* [NASA/NSIDC Snow and Ice Data](https://nsidc.org/data/G02135/versions/3)
 
 ## Data Analysis
 * [[**PACKAGE**] Skimr - frictionless approach to summary statistics (with tiny histograms in the console!)](https://ropensci.github.io/skimr/)
