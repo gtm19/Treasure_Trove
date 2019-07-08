@@ -28,6 +28,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 * [Remark.js](https://remarkjs.com/#1)
   * [[**PACKAGE**] Xaringan - Remark slides in R](https://github.com/yihui/xaringan)
   * [Xaringan section of Bookdown guide](https://bookdown.org/yihui/rmarkdown/xaringan.html)
+* [Fix for paged table issues in RMarkdown](https://github.com/rstudio/rstudio/issues/4072#issuecomment-473406177)
 
 ## Visualisations
 * [[**PACKAGE**] ggforce - ggplot add ons](https://github.com/thomasp85/ggforce)
