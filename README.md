@@ -71,6 +71,7 @@ This is just an _aide memoire_ of the interesting/useful bits and bobs I frequen
 * [Berkeley Dates & Times](https://www.stat.berkeley.edu/~s133/dates.html)
 * [RStudio Cheatsheets](https://github.com/rstudio/cheatsheets)
 * [Carbon - sharing pretty code](https://carbon.now.sh/?l=r)
+* [Chrome remote interface](https://github.com/RLesur/crrri)
 
 ## Fun Stuff
 * [[**PACKAGE**] vapoRwave - themes for ggplot2](https://github.com/moldach/vapoRwave)
